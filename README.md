@@ -1,4 +1,4 @@
-# [CodeClauseInternship_CustomerSegmentationK-MeansClust](link_to_your_project)
+# [CodeClauseInternship_CustomerSegmentationK-MeansClust](https://github.com/Mohsin-Kn/CodeClauseInternship_CustomerSegmentationK-MeansClust.git)
 
 This project implements customer segmentation using K-means clustering. Customer data is segmented into different groups based on their age, annual income, and spending score.
 
